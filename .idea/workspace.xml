@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ebanking-backeend" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -81,7 +81,9 @@
       <workItem from="1719095955369" duration="823000" />
       <workItem from="1719096813685" duration="4714000" />
       <workItem from="1719150352045" duration="813000" />
-      <workItem from="1719151341195" duration="514000" />
+      <workItem from="1719151341195" duration="1028000" />
+      <workItem from="1719152459305" duration="182000" />
+      <workItem from="1719152649791" duration="599000" />
     </task>
     <servers />
   </component>
